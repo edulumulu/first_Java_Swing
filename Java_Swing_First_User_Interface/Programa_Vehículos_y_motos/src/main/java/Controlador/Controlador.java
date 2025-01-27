@@ -29,7 +29,7 @@ import modelo.Vehiculo;
  * - crearPilaVehiculosPredeterminada : Introduce en el hash map 4 vehiculos (2 coches y 2 motos) con valores 
  * predeterminados (Lo hice para poder hacer las pruebas sin meter 500 veces los datos)
  * 
- * @author eduardolucasmunozdelucas
+ * @author edulumulu
  */
 public class Controlador {
 
