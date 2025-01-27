@@ -1,0 +1,11 @@
+Utilización de Java el entorno gráfico de Swing con un modelo Vista Controlador.
+
+Simulación básica de un catálogo de un concesionario.
+
+Modelo -> Vehículo
+
+Controlador -> HashMap de Vehículos almacenados en un documento txt ubicado en la raid del proyecto
+
+Excepciones --> Propias
+
+Main -> Java.swing (menus, botones, label, textfield, check box, spinners)
