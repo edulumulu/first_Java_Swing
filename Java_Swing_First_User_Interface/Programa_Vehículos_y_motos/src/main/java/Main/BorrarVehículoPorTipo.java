@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JDialog.java to edit this template
- */
+
 package Main;
 
 import Controlador.Controlador;
@@ -18,7 +15,7 @@ import misExcepciones.misExcepciones;
 
 /**
  *
- * @author eduardolucasmunozdelucas
+ * @author edulumulu
  */
 public class BorrarVehículoPorTipo extends javax.swing.JDialog {
 
