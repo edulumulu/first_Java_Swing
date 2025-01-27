@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package modelo;
 
 import java.io.Serializable;
@@ -9,7 +6,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author eduardolucasmunozdelucas
+ * @author edulumulu
  */
 public class Vehiculo implements Serializable{
     private String marca;
@@ -39,7 +36,7 @@ public class Vehiculo implements Serializable{
         int hash = 7;
         return hash;
     }
-    //En un principio lo sobreescribí para hacer la comparación de los tipos de vehículos con el constain pero al final, como era 1 y 2 lo hice mas simple
+
     @Override
     public boolean equals(Object obj) {
         if (this == obj) {
