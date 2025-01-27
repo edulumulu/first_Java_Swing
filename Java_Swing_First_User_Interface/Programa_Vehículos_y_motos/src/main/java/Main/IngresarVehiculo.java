@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JDialog.java to edit this template
- */
+
 package Main;
 
 import static Controlador.Controlador.escribirDocu;
@@ -19,7 +16,7 @@ import modelo.Vehiculo;
 
 /**
  *
- * @author eduardolucasmunozdelucas
+ * @author edulumulu
  */
 public class IngresarVehiculo extends javax.swing.JDialog {
 
