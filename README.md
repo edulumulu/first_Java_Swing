@@ -9,7 +9,7 @@ Consiste es una aplicación Java que permite la gestión de vehículos mediante 
 ✔ **Añadir nuevos vehículos**  
 ✔ **Modificar la contraseña o el usuario**  
 ✔ **Mostrar la lista de coches**  
-✔ **Mostrar la lista de motos**
+✔ **Mostrar la lista de motos** 
 ✔ **Eliminar vehículos por tipo**  
 
 ## 🛠️ Tecnologías utilizadas
